@@ -47,11 +47,10 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-1. Sign up for an account or log in
-2. Enter a long URL in the input field
-3. Click "Shorten" to generate a short URL
-4. Copy and share the shortened URL
-5. View analytics for your shortened URLs in the dashboard
+1. Enter a long URL in the input field
+2. Click "Shorten" to generate a short URL
+3. Copy and share the shortened URL
+4. View analytics for your shortened URLs in the dashboard
 
 ## API Endpoints
 
