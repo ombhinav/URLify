@@ -15,7 +15,7 @@ URLify is a full-stack MERN (MongoDB, Express, React, Node.js) application that 
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
+
 
 ## Installation
 
